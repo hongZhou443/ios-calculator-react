@@ -36,3 +36,66 @@
     transform: rotate(360deg);
   }
 }
+
+.wrapper {
+  height: 40rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+.inner {
+  width: 21.21rem;
+  height: 50rem;
+}
+
+.body {
+  height: 100%;
+}
+
+.screen {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-left: 0;
+  padding-right: 0;
+  justify-content: flex-end;
+  font-weight: bold;
+  height: 5.5rem;
+  flex-direction: row;
+}
+
+.buttonPanelOuter {
+  height: 100%;
+  margin-bottom:0.5rem;
+}
+
+.buttonPanelInner {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonCalculator {
+  width: 24%;
+  height: 5rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-left:0.1rem;
+  margin-right:0.1rem;
+  margin-top:0.1rem;
+  margin-bottom:0.1rem;
+}
+
+.buttonCalculator_wide {
+  width: 48%;
+  height: 5rem;
+  margin-left: 0.2rem;
+  margin-right:0.2rem;
+  margin-top: 0.1rem;
+  margin-bottom: 0.1rem;
+}
