@@ -1,3 +1,7 @@
+# ios-calculator-clone-react
+
+![image](https://user-images.githubusercontent.com/67214990/207756658-36cd8dc7-2d23-4f42-b728-f33174df7570.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
